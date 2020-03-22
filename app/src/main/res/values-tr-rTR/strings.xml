@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="roll_button_text">Salla</string>
+    <string name="description_button">Zarı atar</string>
+    <string name="logo">Logo</string>
+    <string name="left_dice">Sol Zar</string>
+    <string name="right_dice">Sağ Zar</string>
+</resources>
